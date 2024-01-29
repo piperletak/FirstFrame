@@ -21,7 +21,7 @@ public class Main {
         panel.setBackground(new Color(255,200,200));
         panel.setBackground(Color.PINK);
         //3
-        JLabel label = new JLabel("Hello World");
+        JLabel label = new JLabel("Goodbye World");
         JButton button = new JButton("Push me");
         JTextField textField = new JTextField(10);
         JSpinner spinner = new JSpinner();
