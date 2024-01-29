@@ -22,7 +22,7 @@ public class Main {
         panel.setBackground(Color.PINK);
         //3
         JLabel label = new JLabel("Goodbye World");
-        JButton button = new JButton("Push me");
+        JButton button = new JButton("Why me???");
         JTextField textField = new JTextField(10);
         JSpinner spinner = new JSpinner();
         JSlider slider = new JSlider(1,5);
